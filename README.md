@@ -1,17 +1,17 @@
 # React Training App
-Implement a form with input fields for first name, last name, and email address. 
-Validate the form to ensure that all fields are filled out and that the email address is a valid format.
-Add submit button and use redux to store the form data in a array/list 
-Display submitted forms data in a table retrieving data from the redux store
-Apply sorting on the table columns on header click
-Add back button to navigate back to form
+* Implement a form with input fields for first name, last name, and email address. 
+* Validate the form to ensure that all fields are filled out and that the email address is a valid format.
+* Add submit button and use redux to store the form data in a array/list 
+* Display submitted forms data in a table retrieving data from the redux store
+* Apply sorting on the table columns on header click
+* Add back button to navigate back to form
 
 ## Packages used
-React
-React-router
-Redux
-MUI
-Formik
+- React
+- React-router
+- Redux
+- MUI
+- Formik
 
 ### `npm start`
 
